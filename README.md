@@ -12,3 +12,9 @@ A: Working with a team closer than I ever had before was my biggest challenge. U
 
 Q: What things inspired/ helped you to make this?  
 A: Brakey's youtube tutorials helped a lot. The work my teamates put in were my main inspiration.  
+
+Q: Where is the code?  
+Go to Assets->Scripts. I've written about 90% of the code here. The most notable script I've written is PlayerController.cs.  
+
+Q: How can I load this on Unity?  
+Download these files. In the Unity Hub, click Add, and choose the Needles file. The lastest Unity version is ok.
